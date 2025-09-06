@@ -92,24 +92,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-<p align="left">
-  <a href="https://github.com/Modi-Jainil/MyExpense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Modi-Jainil&repo=MyExpense&theme=dracula" alt="MyExpense" />
-  </a>
-  <br>
-  <a href="https://github.com/Modi-Jainil/BattleShips">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Modi-Jainil&repo=BattleShips&theme=dracula" alt="BattleShips" />
-  </a>
-  <br>
-  <a href="https://github.com/Modi-Jainil/Movie-Recommendation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Modi-Jainil&repo=Movie-Recommendation-System&theme=dracula" alt="Movie Recommendation System" />
-  </a>
-</p>
-
----
-
 ## 📬 Connect with Me
 
 <p align="center">
