@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jainil 👋</h1>
-<h3 align="center">Software Engineer | Open Source Enthusiast | Arch Linux + Hyprland User</h3>
+<h3 align="center">Software Engineer | Open Source Enthusiast | Arch Linux + Hyprland</h3>
 
 ---
 
@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/modi-jainil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jmodi7@hawk.illinoistech.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jainil2015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://jainil-modi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF3E00?style=flat&logo=svelte&logoColor=white"/></a>
 </p>
 
