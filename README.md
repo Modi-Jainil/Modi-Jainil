@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
--   🔭 I’m currently working on: **MyFinance (Flutter)**
--   🌱 I’m exploring: **AI/ML in real-time communications**
--   💬 Ask me about: **Linux, Hyprland, Svelte, Flutter, Open Source**
+- 🔭 I’m currently working on: **MyFinance (Flutter)**
+- 🌱 I’m exploring: **AI/ML in real-time communications**
+- 💬 Ask me about: **Linux, Hyprland, Svelte, Flutter, Open Source**
 
 ---
 
@@ -29,9 +29,6 @@
     <!-- Wakatime Stats -->
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Modi_Jainil&theme=dracula&border_radius=32&card_width=500px&custom_title=Jainil's%20Stats" alt="WakaTime Stats"/>
-    <!-- Trophies -->
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Modi-Jainil&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=8" alt="Trophies"/>
 </p>
 
 ---
@@ -102,7 +99,7 @@
 
 ---
 
-## ⚡ Flexes
+## ⚡ Misc
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=I+use+Arch+Linux%2C+btw.;Building+cool+projects+with+Svelte+%26+Flutter.;Loving+AI%2C+ML%2C+and+Open+Source."/>
